@@ -15,7 +15,7 @@
     	"mongodb": "^3.0.0"
 	},
 	"repository": {
-		"url": "https://github.com/freeCodeCamp/boilerplate-project-exercisetracker"
+		"url": "https://github.com/prasert73/boilerplate-project-exercisetracker.git"
 	},
 	"license": "MIT",
 	"keywords": [
